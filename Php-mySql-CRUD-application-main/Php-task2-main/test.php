@@ -5,4 +5,4 @@ echo "✅ Database connected successfully!";
 
 ?>
 
-// Developed by @Ritesh Kumar Jena 
+// Developed by @I Rajesh Rao
