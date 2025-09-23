@@ -55,6 +55,6 @@ $posts = $stmt->fetchAll();
     <?php endforeach; ?>
   </table>
 </div>
-    <!--Developed by @Ritesh Kumar Jena -->
+    <!--Developed by @I Rajesh Rao -->
 </body>
 </html>
